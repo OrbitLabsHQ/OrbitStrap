@@ -1,0 +1,1 @@
+The Gradle wrapper properties are pinned to Gradle 8.9. This source archive does not include the wrapper JAR or platform-specific wrapper scripts. Use the included GitHub Actions workflow to build from a phone, or generate wrapper files from Android Studio/Gradle on a trusted desktop.
